@@ -37,7 +37,8 @@ come back.
 Below you'll find direct Binder links to the notebooks in this
 repository.  Click on them to jump straight to them.
 
-- [A very short Sagemath tutorial](https://mybinder.org/v2/gh/defeo/crypt-b-it-2022/master?labpath=sage-start-here.ipynb)
+- [A very short Sagemath tutorial](https://mybinder.org/v2/gh/defeo/crypt-b-it-2022/master?labpath=sage-start-here.ipynb).
+- [The notebook of the first tutorial](https://mybinder.org/v2/gh/defeo/crypt-b-it-2022/master?labpath=2022-09-12-day1.ipynb) on elliptic curves, torsion points and isogenies.
 
 ## Acknowledgments
 
